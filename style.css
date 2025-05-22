@@ -33,7 +33,7 @@ a{
 }
 /*Index*/
 .home{
-    background : url(/Images/bg-home-office-studio.jpg) no-repeat;
+    background : url(Images/bg-home-office-studio.jpg) no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -52,7 +52,7 @@ a{
 
 /*Resume*/
 .resume header{
-background: url(/Images/bg-home-office-studio.jpg) center/cover;
+background: url(Images/bg-home-office-studio.jpg) center/cover;
 content: "";
 display: block;
 height: 375px;
